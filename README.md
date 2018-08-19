@@ -54,6 +54,7 @@ Because.
 - [OS](#os)
 - [Software](#software)
 - [License](#license)
+- [Youtube Channels](#youtube-channels)
 - [Miscellaneous](#miscellaneous)
 
 ---
@@ -299,6 +300,35 @@ Because.
 
 - [WTFPL - do What The Fuck you want to Public License](http://www.wtfpl.net) - Everything is in the name. :fr::free:
 - [The I don't care License](https://github.com/jusdepatate/i-dont-care_license) - A license that say "I dont care about my code". :fire::free:
+
+## Youtube Channels
+
+### Educational
+
+- [AstronoGeek](https://www.youtube.com/channel/UC5X4e8ScZI2AFd_vkjSoyoQ) - YouTube channel about astronomy :fr:
+- [Data Gueule](https://www.youtube.com/channel/UCm5wThREh298TkK8hCT9HuA) - YouTube channel about facts and figures :fr:
+- [e-penser](https://www.youtube.com/channel/UCcziTK2NKeWtWQ6kB5tmQ8Q) - YouTube channel about everyday science :fr:
+- [El Jj](https://www.youtube.com/channel/UCgkhWgBGRp0sdFy2MHDWfSg) - YouTube channel about maths :fr:
+- [Florence Porcel](https://www.youtube.com/channel/UC9HapjjoLqdDNwKEWQRaiyA) - YouTube channel about spatial news :fr:
+- [furrtek](https://www.youtube.com/channel/UCnwXl6NYDDiYsTQSKDJK7KQ) - YouTube channel about old electronic stuffs :fr:[:octocat:](https://github.com/furrtek)
+- [Heu?reka](https://www.youtube.com/channel/UC7sXGI8p8PvKosLWagkK9wQ) - YouTube channel about economics for everyone :fr:
+- [horror humanum est](https://www.youtube.com/channel/UCLbgxBMMEo6mAYe87esxGmg) - YouTube channel about weird history facts :fr:
+- [Hygiène Mentale](https://www.youtube.com/channel/UCMFcMhePnH4onVHt2-ItPZw) - YouTube channel about critical mind :fr:
+- [J'ménerve pas, j'explique](https://www.youtube.com/channel/UC1Ue7TuX3iH4y8-Qrjj-hyg) - YouTube channel about science and cinema :fr:
+- [La statistique expliquée à mon chat](https://www.youtube.com/channel/UCWty1tzwZW_ZNSp5GVGteaA) - YouTube channel about statistics for everyone :fr:
+- [Lanterne Cosmique](https://www.youtube.com/channel/UCWYxQt9Y3y2CDzXLf2K7xCA) - YouTube channel that you can't describe :fr:
+- [Le Sense Of Wonder](https://www.youtube.com/channel/UCjsHDXUU3BjBCG7OaCbNDyQ) - YouTube channel about Universe :fr:
+- [Mickaël Launay](https://www.youtube.com/channel/UC4PasDd25MXqlXBogBw9CAg) - YouTube channel about maths :fr:
+- [OTB - Outside The Box](https://www.youtube.com/channel/UC8NJCimLOr_Uc4GhirgO7lg) - YouTube channel about many subjects :fr:
+- [Paf LeGeek](https://www.youtube.com/channel/UCCSHWqosFfYJY5v2WqbTLhg) - YouTube channel about internet techs :fr:
+- [Passe-Science](https://www.youtube.com/channel/UCsz9DiwPtgDvxJ-njWnieZw) - YouTube channel about science :fr:
+- [Risque Alpha](https://www.youtube.com/channel/UCJ7_Ld2cIVY5MM3NcKW3D8A) - YouTube channel about biostatistics :fr:
+- [Science4All](https://www.youtube.com/channel/UC0NCbj8CxzeCGIF6sODJ-7A) - YouTube channel about maths, physics :fr:
+- [ScienceEtonnante](https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA) - YouTube channel about stunning science :fr:
+- [Scilabus](https://www.youtube.com/channel/UCeR8BYZS7IHYjk_9Mh5JgkA) - YouTube channel about science experiments :fr:
+- [Stardust - La Chaîne Espace](https://www.youtube.com/channel/UCdL3UpiseRlvxXuORJjmqZw) - YouTube channel about aerospace :fr:
+- [String Theory FR](https://www.youtube.com/channel/UCfxwT02Bu5R7l21uMAu8H1w) - YouTube channel about science by scientific video makers :fr:
+
 
 ## Miscellaneous
 
