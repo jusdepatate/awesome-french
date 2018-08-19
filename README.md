@@ -3,7 +3,7 @@ aw-fr : <a href="https://counter.danwin1210.me/visits.php?id=93950971d6d12f4c534
 all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd6e1"><img style="height:24px;width:auto;" src="https://danwin1210.me/counter.gif?id=6429d0b5b22ec1fe6749f9c9bc3dd6e1&bg=FFFFFF&fg=000000&tr=0&unique=0&mode=0"></img></a>
 </div>
 <div align="center">
-	<img width="500" src="https://rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome">
+	<img width="500" src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_La_Francophonie.svg" alt="Flag of Francophonie">
 </div>
 
 <p align="center">
@@ -77,7 +77,7 @@ Because.
 - [Awesome Freelance FR](https://github.com/etnbrd/awesome-freelance-fr) - Tools for freelance in France.. :fr::free:
 - [Awesome French](https://github.com/GloverDonovan/awesome-french) - Tools to study French. :fr::free:
 - [Awesome French](https://github.com/alexislefebvre/awesome-french) - Tools translated in French. :fr::free:
-- [Awesome Lyon](https://github.com/ubermuda/awesome-lyon) - List of things to eat/drink in Lyon. :fire::free:
+- [Awesome Lyon](https://github.com/ubermuda/awesome-lyon) - List of things to eat/drink in [Lyon](https://www.lyon.fr). :fire::free:
 - [Awesome Montréal](https://github.com/ubermuda/awesome-montreal) - List of things to eat/drink in [Montreal](http://ville.montreal.qc.ca/). :lollipop::free:
 - [FUN Made In France](https://github.com/arizona2014/FUN-Made-In-France) - List of neat projects made in France :fr::free:
 
