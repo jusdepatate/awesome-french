@@ -138,7 +138,9 @@ Because.
 - [Donjon de Naheulbeuk](https://www.penofchaos.com/warham/donjon.htm) - Humor serie about tabletop RPG. :fr::free:
 - [Wakfu](https://www.wakfu.com/) - French animation serie. :fr:
 - [Dofus](https://www.dofus.com) - French animation serie. :fr:
-- [Kaamelott](https://www.kaamelott.com) - French serie based on arthurian legend. :fr: 
+- [Kaamelott](https://www.kaamelott.com) - French serie based on arthurian legend. :fr:
+- [Hero Corp](https://fr.wikipedia.org/wiki/Hero_Corp) - French serie about an superhero entreprise named "Hero Corp". :fr: 
+- [Noobs](https://youtube.com/user/Funglisoft/playlists?view=50&flow=list&shelf_id=23) - French web-serie about a bad guild named "Noobs". :fr: 
 
 ## Real Organization
 > Legal organization ("Association loi 1901" or "Société", gaming company goes [here](#video-game-studio))
