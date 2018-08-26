@@ -342,6 +342,8 @@ Because.
 - [The Freaks](http://the-freaks.fr) - Ecology with french Stars :fr:
 - [EveIF](https://eveif.fr) - Tools for Eve Online (i love this game) in french :fr::free:
 
+## License
 
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 
