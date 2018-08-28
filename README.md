@@ -15,7 +15,7 @@ all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd
 > This is based on [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 > You own/know something that could be added ? PR!
 >
-> :euro: - Not free
+> :euro: / <img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji"> - Not free
 >
 > :octocat: - Open Source
 >
@@ -63,14 +63,14 @@ Because.
 
 ### Physic school
 
-- [Le Wagon](https://www.lewagon.com) - Coding Bootcamp.. :fr::euro: (5k5€)
-- [L'École LDLC](https://www.lecole-ldlc.com) - Code training.. :fr::euro: (50€)
+- [Le Wagon](https://www.lewagon.com) - Coding Bootcamp.. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji"> (5k5€)
+- [L'École LDLC](https://www.lecole-ldlc.com) - Code training.. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji"> (50€)
 - [42](http://www.42.fr) - Code training.. :fr::free:
 - [Gaming Campus](https://gamingcampus.fr) - First school of management dedicated to the professions of gaming.. :fr:
 
 ### Online school
 
-- [OpenClassrooms](https://openclassrooms.com/) - Free course on everything that touch code.. :fr: :euro:/:free:
+- [OpenClassrooms](https://openclassrooms.com/) - Free course on everything that touch code.. :fr: <img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">/:free:
 
 ## Other Awesome List
 
@@ -109,11 +109,11 @@ Because.
 
 ## Books
 
-- [Mon chat est un geek comme les autres](https://www.amazon.fr/Mon-chat-geek-comme-autres/dp/2822210969) - Humor book about a cat. :fr::euro: (10)
-- [Putain de chat](https://www.amazon.fr/Putain-chat-Lapuss/dp/B01E9TG4RA/) - Humor book about a cat. :fr::euro: (10€)
-- [Donjon de Naheulbeuk](https://www.amazon.fr/Donjon-Naheulbeuk-Première-saison-partie/dp/2913714676/) - Humor book about tabletop RPG. :fr::euro: (15€)
-- [Astérix](https://www.asterix.com/) - French comic book. :fr::euro: (10€)
-- [Kaamelott](https://www.amazon.fr/Kaamelott-1-LArmée-Du-Nécromant/dp/2203370157) - French comic book. :fr::euro: (15€)
+- [Mon chat est un geek comme les autres](https://www.amazon.fr/Mon-chat-geek-comme-autres/dp/2822210969) - Humor book about a cat. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji"> (10€)
+- [Putain de chat](https://www.amazon.fr/Putain-chat-Lapuss/dp/B01E9TG4RA/) - Humor book about a cat. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji"> (10€)
+- [Donjon de Naheulbeuk](https://www.amazon.fr/Donjon-Naheulbeuk-Première-saison-partie/dp/2913714676/) - Humor book about tabletop RPG. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji"> (15€)
+- [Astérix](https://www.asterix.com/) - French comic book. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji"> (10€)
+- [Kaamelott](https://www.amazon.fr/Kaamelott-1-LArmée-Du-Nécromant/dp/2203370157) - French comic book. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji"> (15€)
 
 ## Video Game Studio 
 
@@ -131,7 +131,7 @@ Because.
 
 - Games by studios listed above
 - [Once Upon A War](https://github.com/Meuleuh-Corp/Once-Upon-A-War) - Unity game about war :free::fr:[:octocat:](https://github.com/Meuleuh-Corp/Once-Upon-A-War)
-- [Fantasy](https://fr.asmodee.com/fr/games/fantasy/) - Tabletop game. :fr::euro: (10€)
+- [Fantasy](https://fr.asmodee.com/fr/games/fantasy/) - Tabletop game. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji"> (10€)
 
 ## Series
 
@@ -165,8 +165,8 @@ Because.
 ## Web Organization
 > Not legal organization
 
-- [GeekOtter](https://geekotter.cf) - 5 people that want to create a numeric book about animals. :fr:
-- [EmoteBot Devs](https://github.com/emotebot) - My discord bot and a friend's discord bot. :fr:[:octocat:](https://github.com/emotebot)
+~~- [GeekOtter](https://geekotter.cf) - 5 people that want to create a numeric book about animals. :fr:
+- [EmoteBot Devs](https://github.com/emotebot) - My discord bot and a friend's discord bot. :fr:[:octocat:](https://github.com/emotebot)~~
 - [Escadron Griffons](http://esgr.cf) - French/Francophone (owners are from Quebec) steam group (<800 members). :lollipop:
 
 ## Web
@@ -178,22 +178,22 @@ Because.
 
 ### TLDs
 
-- [.fr](http://nic.fr) - TLD for France. :fr::euro:
-- [.re](http://nic.re) - TLD for l'île de la Réunion. :lollipop::euro:
-- [.mq](http://www.collectivitedemartinique.mq) - TLD for Martinique. :lollipop::euro:
-- [.gp](http://nic.gp) - TLD for Guadeloupe. :lollipop::euro:
-- [.gf](https://www.ctguyane.fr/) - TLD for Guyane Française. :lollipop::euro:
-- [.yt](http://nic.yt) - TLD for Mayotte. :lollipop::euro:
-- [.tf](http://nic.tf) - TLD for Terres Australes et Antarctiques. :lollipop::euro:
-- [.nc](http://www.cctld.nc/) - TLD for Nouvelle-Calédonie. :lollipop::euro:
-- [.pf](http://www.opt.pf/) - TLD for Polynésie Française. :lollipop::euro:
-- [.wf](http://nic.wf) - TLD for Wallis and Futuna. :lollipop::euro:
-- [.pm](http://nic.pm) - TLD for Saint-Pierre and Miquelon. :lollipop::euro:
-- [.alsace](http://nic.alsace) - TLD for Région Alsace. :fr::euro:
-- [.paris](http://nic.paris) - TLD for Paris. :fr::euro:
+- [.fr](http://nic.fr) - TLD for France. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [.re](http://nic.re) - TLD for l'île de la Réunion. :lollipop:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [.mq](http://www.collectivitedemartinique.mq) - TLD for Martinique. :lollipop:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [.gp](http://nic.gp) - TLD for Guadeloupe. :lollipop:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [.gf](https://www.ctguyane.fr/) - TLD for Guyane Française. :lollipop:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [.yt](http://nic.yt) - TLD for Mayotte. :lollipop:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [.tf](http://nic.tf) - TLD for Terres Australes et Antarctiques. :lollipop:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [.nc](http://www.cctld.nc/) - TLD for Nouvelle-Calédonie. :lollipop:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [.pf](http://www.opt.pf/) - TLD for Polynésie Française. :lollipop:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [.wf](http://nic.wf) - TLD for Wallis and Futuna. :lollipop:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [.pm](http://nic.pm) - TLD for Saint-Pierre and Miquelon. :lollipop:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [.alsace](http://nic.alsace) - TLD for Région Alsace. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [.paris](http://nic.paris) - TLD for Paris. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
 - [.aquarelle](http://nic.aquarelle) - TLD for Société Aquarelle. :fr:
 - [.frogans](http://nic.frogans) - TLD for Project Frogans. :fr:
-- [.ovh](http://nic.ovh) - TLD for OVH. :fr::euro:
+- [.ovh](http://nic.ovh) - TLD for OVH. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
 - [.sncf](https://www.sncf.com/sncv1/fr/nic) - TLD for SNCF. :fr:
 
 #### TLDs for francophone country/region
@@ -202,16 +202,16 @@ Because.
 - [.ga](http://www.my.ga/) - TLD for Gabon (free with [Freenom](http://www.freenom.com/)). :lollipop::free:
 - [.cf](http://nic.cf) - TLD for Centrafique (free with [Freenom](http://www.freenom.com/)). :lollipop::free:
 - [.gq](http://nic.gq) - TLD for Guinée Équatoriale (free with [Freenom](http://www.freenom.com/)). :lollipop::free:
-- [.quebec](http://registre.quebec/) - TLD for Quebec. :lollipop::euro:
-- [.qc.ca](https://www.weblegal.ca/fr/guides/comment-acheter-un-nom-de-domaine-qc-ca/) - Old TLD for Quebec. :lollipop::euro:
-- [.cg](http://nic.cg) - TLD for Congo. :lollipop::euro:
-- [.bj](http://nic.bj) - TLD for Bénin. :lollipop::euro:
-- [.bf](http://www.arcep.bf/noms-de-domaine/) - TLD for Burkina Faso. :lollipop::euro:
-- [.ci](http://www.nic.ci) - TLD for Côte D'Ivoire. :lollipop::euro:
-- [.ng](http://nira.org.ng) - TLD for Nigeria. :lollipop::euro:
-- [.cd](http://www.nic.cd/) - TLD for Republique Democratique du Congo. :lollipop::euro:
-- [.sn](https://www.nic.sn) - TLD for Sénégal. :lollipop::euro:
-- [.tg](https://nic.tg) - TLD for Togo. :lollipop::euro:
+- [.quebec](http://registre.quebec/) - TLD for Quebec. :lollipop:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [.qc.ca](https://www.weblegal.ca/fr/guides/comment-acheter-un-nom-de-domaine-qc-ca/) - Old TLD for Quebec. :lollipop:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [.cg](http://nic.cg) - TLD for Congo. :lollipop:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [.bj](http://nic.bj) - TLD for Bénin. :lollipop:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [.bf](http://www.arcep.bf/noms-de-domaine/) - TLD for Burkina Faso. :lollipop:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [.ci](http://www.nic.ci) - TLD for Côte D'Ivoire. :lollipop:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [.ng](http://nira.org.ng) - TLD for Nigeria. :lollipop:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [.cd](http://www.nic.cd/) - TLD for Republique Democratique du Congo. :lollipop:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [.sn](https://www.nic.sn) - TLD for Sénégal. :lollipop:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [.tg](https://nic.tg) - TLD for Togo. :lollipop:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
 
 ## Bot
 
@@ -243,27 +243,27 @@ Because.
 ## ISP
 
 ### Well know ISP (in France)
-- [Free](https://free.fr) - French ISP. :fr::euro:
-- [Orange](https://orange.fr) - Historical French ISP. :fr::euro:
-- [OVH](https://ovh.com) - French ISP. :fr::euro:[:octocat:](https://github.com/ovh)[:octocat:](https://github.com/ovhlabs)
-- [Altice / SFR](https://sfr.fr) - French ISP (no one like this one). :fr::euro:
-- [Bouygues Telecom](https://bouyguestelecom.fr) - French ISP (no one like this one too). :fr::euro:
+- [Free](https://free.fr) - French ISP. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [Orange](https://orange.fr) - Historical French ISP. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [OVH](https://ovh.com) - French ISP. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">[:octocat:](https://github.com/ovh)[:octocat:](https://github.com/ovhlabs)
+- [Altice / SFR](https://sfr.fr) - French ISP (no one like this one). :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [Bouygues Telecom](https://bouyguestelecom.fr) - French ISP (no one like this one too). :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
 
 ### Not so know ISP (in France)
 
-- [FDN - French Data Network](https://www.fdn.fr) - French ISP. :fr::euro: (40€/month ADSL)
-- [ILOTH - Internet Libre et Ouvert à Tous dans l'Hérault](https://iloth.net) - French ISP. :fr::euro: (40€/month ADSL)
-- [Rhizome](https://www.rhizome-fai.net) - French ISP. :fr::euro:
-- [Quantic Telecom](https://www.quantic-telecom.net) - French ISP. :fr::euro: (95€/month FTTO)
-- [Franciliens](https://www.franciliens.net) - French ISP. :fr::euro: (43€/month (A/V)DSL)
-- [Grifon](https://grifon.fr) - French ISP. :fr::euro: (42€/month ADSL)
-- [FAIMaison](https://www.faimaison.net) - French ISP. :fr::euro: (40€/month ADSL)
-- [TDN - Tourraine Data Network](https://www.tdn-fai.net) - French ISP. :fr::euro: (40€/month ADSL)
-- [OxidTelecom](https://www.oxtel.fr) - French ISP. :fr::euro:
-- [Rézine](https://www.rezine.org) - French ISP. :fire::euro: (37€/month (A/V)DSL)
-- [Illyse](https://www.illyse.net) - French ISP. :fire::euro: (37€/month (A/V)DSL)
-- [Ilico](https://www.ilico.org) - French ISP. :fr::euro: (36€/month (A/V)DSL)
-- [Aquilenet](https://www.aquilenet.fr) - French ISP. :fr::euro:
+- [FDN - French Data Network](https://www.fdn.fr) - French ISP. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji"> (40€/month ADSL)
+- [ILOTH - Internet Libre et Ouvert à Tous dans l'Hérault](https://iloth.net) - French ISP. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji"> (40€/month ADSL)
+- [Rhizome](https://www.rhizome-fai.net) - French ISP. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [Quantic Telecom](https://www.quantic-telecom.net) - French ISP. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji"> (95€/month FTTO)
+- [Franciliens](https://www.franciliens.net) - French ISP. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji"> (43€/month (A/V)DSL)
+- [Grifon](https://grifon.fr) - French ISP. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji"> (42€/month ADSL)
+- [FAIMaison](https://www.faimaison.net) - French ISP. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji"> (40€/month ADSL)
+- [TDN - Tourraine Data Network](https://www.tdn-fai.net) - French ISP. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji"> (40€/month ADSL)
+- [OxidTelecom](https://www.oxtel.fr) - French ISP. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
+- [Rézine](https://www.rezine.org) - French ISP. :fire:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji"> (37€/month (A/V)DSL)
+- [Illyse](https://www.illyse.net) - French ISP. :fire:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji"> (37€/month (A/V)DSL)
+- [Ilico](https://www.ilico.org) - French ISP. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji"> (36€/month (A/V)DSL)
+- [Aquilenet](https://www.aquilenet.fr) - French ISP. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png" alt="Money Emoji">
 
 
 ### Association of ISP
@@ -303,6 +303,7 @@ Because.
 - [WTFPL - do What The Fuck you want to Public License](http://www.wtfpl.net) - Everything is in the name. :fr::free:
 - [The I don't care License](https://github.com/jusdepatate/i-dont-care_license) - A license that say "I dont care about my code". :fire::free:
 - [Microsoft License](https://github.com/jusdepatate/Microsoft-license) - A troll license about Microsoft. :fire::free:
+
 ## Youtube Channels
 
 ### Educational
