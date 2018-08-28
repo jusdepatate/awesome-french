@@ -302,7 +302,7 @@ Because.
 
 - [WTFPL - do What The Fuck you want to Public License](http://www.wtfpl.net) - Everything is in the name. :fr::free:
 - [The I don't care License](https://github.com/jusdepatate/i-dont-care_license) - A license that say "I dont care about my code". :fire::free:
-
+- [Microsoft License](https://github.com/jusdepatate/Microsoft-license) - A troll license about Microsoft. :fire::free:
 ## Youtube Channels
 
 ### Educational
