@@ -80,6 +80,7 @@ Because.
 - [Awesome Lyon](https://github.com/ubermuda/awesome-lyon) - List of things to eat/drink in [Lyon](https://www.lyon.fr). <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/sparkle.png"><img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">
 - [Awesome Montréal](https://github.com/ubermuda/awesome-montreal) - List of things to eat/drink in [Montreal](http://ville.montreal.qc.ca/). <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">
 - [FUN Made In France](https://github.com/arizona2014/FUN-Made-In-France) - List of neat projects made in France :fr:<img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">
+- [Frrrenchies](https://github.com/frrrenchies/frrrenchies) - List of R ressources in french. :fr:<img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">
 
 ## Music
 
