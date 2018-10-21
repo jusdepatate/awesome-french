@@ -97,6 +97,7 @@ Because.
 - [Thérapie Taxi](https://www.youtube.com/channel/UCw6eCoyUf6sOa5L6fouZO4w) - Rock. :fr:
 - [Kikesa](http://youtube.com/channel/UCcX5UhgQ3fCSXpemJzEuZIw) - Rap. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/sparkle.png">
 - [Rilès](https://www.youtube.com/user/0Riles) - Rap. :fr:
+- [Ultra Vomit](https://youtube.com/user/UltraVomitOfficiel) - Rock group famous for [this](https://youtube.com/watch?v=-w0qTvjydik) and [this](https://m.youtube.com/watch?v=NLPyySN9Czw) (both are awesome musics). :fr:
 
 ## Programming Languages
 
