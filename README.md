@@ -104,7 +104,6 @@ Because.
 - [WinDev](https://www.pcsoft.fr/windev/index.html) - « Développez 10 fois plus vite » (from official website). :fr: <img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">/<img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">
 - [Translation of NodeJS Docs](https://github.com/nodejs/nodejs-fr) - Translation in french of the NodeJS Docs <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">:fr:[:octocat:](https://github.com/nodejs/nodejs-fr)
 - [MicroAlg](http://microalg.info/) - Pseudocode in french <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">:fr:[:octocat:](https://github.com/Microalg/microalg)
-- [JavaScripte](https://github.com/Parth-Agarwal/Javascripte) - JS in french <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">:fr:[:octocat:](https://github.com/Parth-Agarwal/Javascripte)
 - [HTMLFR](https://htmlfr.org/) - HTML in french <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">:fr:[:octocat:](https://github.com/DavidLibeau/htmlfr)
 - [Orvet](https://github.com/renaud1239/Orvet) - code in french <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">:fr:[:octocat:](https://github.com/renaud1239/Orvet)
 
