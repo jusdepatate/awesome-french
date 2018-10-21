@@ -122,6 +122,7 @@ Because.
 - [Ubisoft](https://www.ubisoft.com/) - Well knows French company. :fr:
 - [DONTNODE](http://dont-nod.com) - French company that made "Life is Strange" and "Remember Me". :fr:
 - [DigitalPulseSoftware](https://github.com/DigitalPulseSoftware) - They made one game and one engine. :fr:
+- [Nerial](http://nerial.fr) - They made [Reigns](http://nerial.fr/reigns/), [Reigns: Her Majesty](http://nerial.fr/rhm/), ... :fr:
 
 ### Game Engine
 
@@ -154,6 +155,7 @@ Because.
 - [PETA France](http://petafrance.com) - A french organization for animals in France. :fr:
 - [Emmaus](http://emmaus-france.org) - A french organization that help poor people (they made [Emmabuntus](#os)). :fr:
 - [VideoLan](http://www.videolan.org) - A french organization that made VLC. :fr:
+- [Exodus Privacy](https://exodus-privacy.eu.org) - A french oganization that audit trackers used by Android application. :fr:
 
 ### Company/Societe
 
@@ -166,8 +168,6 @@ Because.
 ## Web Organization
 > Not legal organization
 
-- [GeekOtter](https://geekotter.cf) - 5 people that want to create a numeric book about animals. :fr:
-- [EmoteBot Devs](https://github.com/emotebot) - My discord bot and a friend's discord bot. :fr:[:octocat:](https://github.com/emotebot)
 - [Escadron Griffons](http://esgr.cf) - French/Francophone (owners are from Quebec) steam group (<800 members). <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png">
 
 ## Web
@@ -222,33 +222,28 @@ Because.
 - [Fortnite stats](https://fortnite.y3n.co/) - Bot that give stats from fortnite. :fr:<img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">
 - [l4p1n-bot](https://bot.l4p1n.ch/) - Multifunctionnality bot made by a cool guy (l4p1n). <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">
 - [EnderBot](https://audran.xyz/enderbot/) - cool RPG bot. :fr:<img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">
-- [EmoteBot](https://discordbots.org/bot/397007011549675521) - Bot based on RED <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png"><img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/sparkle.png">[:octocat:](https://github.com/EmoteBot/EmoteBot)
-
-### Telegram bot
-
-- [Potato Juice](https://t.me/Potato_JuiceBot) - Tiny Telegram bot <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png"><img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/sparkle.png">[:octocat:](https://github.com/EmoteBot/Potato-JuiceBot)
+- [TuxBot](https://discordbots.org/bot/301062143942590465) - nice Discord bot for the server Gnous. :fr:<img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">[:octocat:](https://github.com/outout14/tuxbot-bot)
 
 ### Twitter bot
 
 - [Français mofo](https://twitter.com/francais_mofo) - Suggest appropriate translations to English words used in French <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">:fr:[:octocat:](https://github.com/maeligg/francais-mofo)
 
 ### Mastodon bot
+
 - [@l4bot@botsin.space](http://botsin.space/@l4bot) - bot based on mastodon-ebooks. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png">[:octocat:](https://github.com/Srol/mastodon-ebooks)
 
 ## CMS
 
 - [YesWiki](https://yeswiki.net/) - Wiki CMS <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">:fr:[:octocat:](https://github.com/YesWiki/yeswiki)
 - [MineWebCMS](https://mineweb.org) - Minecraft CMS <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">:fr:[:octocat:](https://github.com/MineWeb/MineWebCMS)
-- [NeoFratCMS](https://neofr.ag) - Gaming-based CMS <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">:fr:[:octocat:](https://neofr.ag/fr)
+- [NeoFragCMS](https://neofr.ag) - Gaming-based CMS <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">:fr:[:octocat:](https://neofr.ag/fr)
 
 ## ISP
 
 ### Well know ISP (in France)
 - [Free](https://free.fr) - French ISP. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
 - [Orange](https://orange.fr) - Historical French ISP. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [OVH](https://ovh.com) - French ISP. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">[:octocat:](https://github.com/ovh)[:octocat:](https://github.com/ovhlabs)
-- [Altice / SFR](https://sfr.fr) - French ISP (no one like this one). :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [Bouygues Telecom](https://bouyguestelecom.fr) - French ISP (no one like this one too). :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
+- [OVH](https://ovh.fr) - French ISP. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">[:octocat:](https://github.com/ovh)[:octocat:](https://github.com/ovhlabs)
 
 ### Not so know ISP (in France)
 
@@ -304,6 +299,7 @@ Because.
 - [WTFPL - do What The Fuck you want to Public License](http://www.wtfpl.net) - Everything is in the name. :fr:<img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">
 - [The I don't care License](https://github.com/jusdepatate/i-dont-care_license) - A license that say "I dont care about my code". <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/sparkle.png"><img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">
 - [Microsoft License](https://github.com/jusdepatate/Microsoft-license) - A troll license about Microsoft. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/sparkle.png"><img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">
+
 ## Youtube Channels
 
 ### Educational
@@ -347,4 +343,3 @@ Because.
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 <br>This [thing] uses [Mutant Standard emoji](https://mutant.tech), which are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
