@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-	<sub>Just type <a href="https://awesome-fr.cf"><code>awesome-fr.cf</code></a> to go here. Check out my <a href="https://jusdepatate.cf">site</a> and follow me on <a href="https://github.com/jusdepatate">GitHub</a>.</sub>
+	<sub>Check out my <a href="https://hostux.social/@jusdepatate">Mastodon</a> and follow me on <a href="https://github.com/jusdepatate">GitHub</a>.</sub>
 </p>
 <br>
 
