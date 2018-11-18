@@ -1,7 +1,3 @@
-<div align="right">
-aw-fr : <a href="https://counter.danwin1210.me/visits.php?id=93950971d6d12f4c5349cecfc60a9b60"><img style="height:24px;width:auto;" src="https://counter.danwin1210.me/counter.gif?id=93950971d6d12f4c5349cecfc60a9b60&bg=FFFFFF&fg=000000&tr=0&unique=0&mode=0"></a>
-all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd6e1"><img style="height:24px;width:auto;" src="https://danwin1210.me/counter.gif?id=6429d0b5b22ec1fe6749f9c9bc3dd6e1&bg=FFFFFF&fg=000000&tr=0&unique=0&mode=0"></img></a>
-</div>
 <div align="center">
 	<img width="500" src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_La_Francophonie.svg" alt="Flag of Francophonie">
 </div>
