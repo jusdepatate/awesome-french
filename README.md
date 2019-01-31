@@ -21,7 +21,7 @@
 >
 > <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png"> - Free
 >
-> <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/sparkle.png"> - From/Talking about (near) Lyon <3
+> <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/sparkle.png"> - From/Talkig about (near) Lyon <3
 
 
 > What is this ?
@@ -98,7 +98,6 @@ Because.
 ## Programming Languages
 
 - [Linotte](http://langagelinotte.free.fr/) - « codez dans un langage simple et en français » (from official website). :fr:<img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">
-- [WinDev](https://www.pcsoft.fr/windev/index.html) - « Développez 10 fois plus vite » (from official website). :fr: <img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">/<img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">
 - [Translation of NodeJS Docs](https://github.com/nodejs/nodejs-fr) - Translation in french of the NodeJS Docs <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">:fr:[:octocat:](https://github.com/nodejs/nodejs-fr)
 - [MicroAlg](http://microalg.info/) - Pseudocode in french <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">:fr:[:octocat:](https://github.com/Microalg/microalg)
 - [HTMLFR](https://htmlfr.org/) - HTML in french <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">:fr:[:octocat:](https://github.com/DavidLibeau/htmlfr)
