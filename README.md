@@ -110,7 +110,7 @@ Because.
 - [Donjon de Naheulbeuk](https://www.amazon.fr/Donjon-Naheulbeuk-Première-saison-partie/dp/2913714676/) - Humor book about tabletop RPG. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png"> (15€)
 - [Astérix](https://www.asterix.com/) - French comic book. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png"> (10€)
 - [Kaamelott](https://www.amazon.fr/Kaamelott-1-LArmée-Du-Nécromant/dp/2203370157) - French comic book. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png"> (15€)
-- [Node.js APLP](https://github.com/oncletom/nodebook) - Node.js • Apprendre par la pratique <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">:fr:[:octocat:](https://github.com/oncletom/nodebook)
+- [Node.js - LBP](https://github.com/oncletom/nodebook) - Node.js • Learn by practice <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">:fr:[:octocat:](https://github.com/oncletom/nodebook)
 
 ## Video Game Studio 
 
