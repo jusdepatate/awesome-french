@@ -110,6 +110,7 @@ Because.
 - [Donjon de Naheulbeuk](https://www.amazon.fr/Donjon-Naheulbeuk-Première-saison-partie/dp/2913714676/) - Humor book about tabletop RPG. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png"> (15€)
 - [Astérix](https://www.asterix.com/) - French comic book. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png"> (10€)
 - [Kaamelott](https://www.amazon.fr/Kaamelott-1-LArmée-Du-Nécromant/dp/2203370157) - French comic book. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png"> (15€)
+- [Node.js APLP](https://github.com/oncletom/nodebook) - Node.js • Apprendre par la pratique <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">:fr:[:octocat:](https://github.com/oncletom/nodebook)
 
 ## Video Game Studio 
 
@@ -129,6 +130,7 @@ Because.
 - Games by studios listed above
 - [Once Upon A War](https://github.com/Meuleuh-Corp/Once-Upon-A-War) - Unity game about war <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">:fr:[:octocat:](https://github.com/Meuleuh-Corp/Once-Upon-A-War)
 - [Fantasy](https://fr.asmodee.com/fr/games/fantasy/) - Tabletop game. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png"> (10€)
+- [OPMon](https://github.com/OpMonTeam/OpMon) - The free and open source Pokémon clone! <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">:fr:[:octocat:](https://github.com/OpMonTeam/OpMon)
 
 ## Series
 
@@ -288,6 +290,8 @@ Because.
 - [MushRaider](http://mushraider.com) - Raid Planner. :fr:<img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">[:octocat:](https://github.com/st3ph/mushraider)
 - [Mumble](https://github.com/mumble-voip/mumble) - Open Source VOIP softwaree. :fr:<img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">[:octocat:](https://github.com/mumble-voip/mumble)
 - [bitoduc.fr](http://bitoduc.fr) - French-Technologic word. :fr:<img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">[:octocat:](https://github.com/soulaklabs/bitoduc.fr/)
+- [Lockdoor Framework](https://lockdoor.sofianehamlaoui.me) -  A Penetration Testing framework with Cyber Security Resources. :fr:<img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">[:octocat:](https://github.com/SofianeHamlaoui/Lockdoor-Framework)
+- [Redcloud](https://github.com/khast3x/Redcloud) -  Automated Red Team Infrastructure deployement using Docker. :fr:<img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">[:octocat:](https://github.com/khast3x/Redcloud)
 
 ## License
 
