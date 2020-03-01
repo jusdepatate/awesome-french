@@ -93,7 +93,7 @@ Because.
 - [Thérapie Taxi](https://www.youtube.com/channel/UCw6eCoyUf6sOa5L6fouZO4w) - Rock. :fr:
 - [Kikesa](http://youtube.com/channel/UCcX5UhgQ3fCSXpemJzEuZIw) - Rap. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/sparkle.png">
 - [Rilès](https://www.youtube.com/user/0Riles) - Rap. :fr:
-- [Ultra Vomit](https://youtube.com/user/UltraVomitOfficiel) - Rock group famous for [this](https://youtube.com/watch?v=-w0qTvjydik) and [this](https://m.youtube.com/watch?v=NLPyySN9Czw) (both are awesome musics). :fr:
+- [Ultra Vomit](https://youtube.com/user/UltraVomitOfficiel) - Rock group famous for [this](https://youtube.com/watch?v=-w0qTvjydik) and [this](https://youtube.com/watch?v=NLPyySN9Czw) (both are awesome musics). :fr:
 
 ## Programming Languages
 
@@ -162,54 +162,12 @@ Because.
 - [KNG eSport](https://www.startupplace.io/startup/kng-esport/) - eSport for everyone. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/sparkle.png">
 - [La Source](https://la-source.co) - eSport for everyone. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/sparkle.png">
 
-## Web Organization
-> Not legal organization
-
-- [Escadron Griffons](http://esgr.cf) - French/Francophone (owners are from Quebec) steam group (<800 members). <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png">
-
 ## Web
 
 - [OVH.com](https://ovh.com) - French hosting. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">[:octocat:](https://github.com/ovh)[:octocat:](https://github.com/ovhlabs)
 - [Online](https://online.net) - French hosting. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
 - [OVH.net](https://ovh.net) - Speedtest powered by OVH. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
 - [Lilo](https://search.lilo.org) - Search engine that collect water (like [Ecosia](https://ecosia.org) but with water). :fr:<img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">
-
-### TLDs
-
-- [.fr](http://nic.fr) - TLD for France. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [.re](http://nic.re) - TLD for l'île de la Réunion. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [.mq](http://www.collectivitedemartinique.mq) - TLD for Martinique. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [.gp](http://nic.gp) - TLD for Guadeloupe. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [.gf](https://www.ctguyane.fr/) - TLD for Guyane Française. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [.yt](http://nic.yt) - TLD for Mayotte. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [.tf](http://nic.tf) - TLD for Terres Australes et Antarctiques. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [.nc](http://www.cctld.nc/) - TLD for Nouvelle-Calédonie. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [.pf](http://www.opt.pf/) - TLD for Polynésie Française. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [.wf](http://nic.wf) - TLD for Wallis and Futuna. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [.pm](http://nic.pm) - TLD for Saint-Pierre and Miquelon. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [.alsace](http://nic.alsace) - TLD for Région Alsace. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [.paris](http://nic.paris) - TLD for Paris. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [.aquarelle](http://nic.aquarelle) - TLD for Société Aquarelle. :fr:
-- [.frogans](http://nic.frogans) - TLD for Project Frogans. :fr:
-- [.ovh](http://nic.ovh) - TLD for OVH. :fr:<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [.sncf](https://www.sncf.com/sncv1/fr/nic) - TLD for SNCF. :fr:
-
-#### TLDs for francophone country/region
-
-- [.ml](https://nic.ml) - TLD for Mali (free with [Freenom](http://www.freenom.com/)). <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">
-- [.ga](http://www.my.ga/) - TLD for Gabon (free with [Freenom](http://www.freenom.com/)). <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">
-- [.cf](http://nic.cf) - TLD for Centrafique (free with [Freenom](http://www.freenom.com/)). <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">
-- [.gq](http://nic.gq) - TLD for Guinée Équatoriale (free with [Freenom](http://www.freenom.com/)). <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">
-- [.quebec](http://registre.quebec/) - TLD for Quebec. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [.qc.ca](https://www.weblegal.ca/fr/guides/comment-acheter-un-nom-de-domaine-qc-ca/) - Old TLD for Quebec. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [.cg](http://nic.cg) - TLD for Congo. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [.bj](http://nic.bj) - TLD for Bénin. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [.bf](http://www.arcep.bf/noms-de-domaine/) - TLD for Burkina Faso. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [.ci](http://www.nic.ci) - TLD for Côte D'Ivoire. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [.ng](http://nira.org.ng) - TLD for Nigeria. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [.cd](http://www.nic.cd/) - TLD for Republique Democratique du Congo. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [.sn](https://www.nic.sn) - TLD for Sénégal. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
-- [.tg](https://nic.tg) - TLD for Togo. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/lollipop.png"><img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png">
 
 ## Bot
 
@@ -224,6 +182,8 @@ Because.
 ### Twitter bot
 
 - [Français mofo](https://twitter.com/francais_mofo) - Suggest appropriate translations to English words used in French <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">:fr:[:octocat:](https://github.com/maeligg/francais-mofo)
+- [Emoji Mashup Bot](https://twitter.com/EmojiMashupBot) - Bot that mashups emojis. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">:fr:
+- [Emoji Mashup Bot+](https://twitter.com/EmojiMashupPlus) - Bot that mashups even more emojis. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">:fr:
 
 ### Mastodon bot
 
@@ -333,8 +293,6 @@ Because.
 - [Le Code Civil Français, sous Git](https://github.com/steeve/france.code-civil) - Everything is in the name. :fr:<img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">[:octocat:](https://github.com/steeve/france.code-civil)
 - [Parcoursup](http://www.parcoursup.fr/) - Code source de Parcoursup disponible sur Framagit. :fr:<img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">[:octocat:](https://framagit.org/parcoursup)
 - [La Brique Internet](http://labriqueinter.net) - self host and vpn. :fr: <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">/<img width="20" height="20" src="https://raw.githubusercontent.com/jusdepatate/awesome-french/master/emoji/money.png"> [:octocat:](https://github.com/labriqueinternet)
-- [ROTI-json](http://roti-json.jusdepatate.cf) - Human&Robot readable api for **R**ules **O**f **T**he **I**nternet. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/sparkle.png"><img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">[:octocat:](https://github.com/jusdepatate/rules-of-the-internet-json)
-- [ROTI-xml](http://roti-xml.jusdepatate.cf) - Human&Robot readable api for **R**ules **O**f **T**he **I**nternet. <img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/sparkle.png"><img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">[:octocat:](https://github.com/jusdepatate/rules-of-the-internet-xml)
 - [The Freaks](http://the-freaks.fr) - Ecology with french Stars :fr:
 - [EveIF](https://eveif.fr) - Tools for Eve Online (i love this game) in french :fr:<img width="20" height="20" src="https://github.com/jusdepatate/awesome-french/raw/new-emojis/emoji/free.png">
 
